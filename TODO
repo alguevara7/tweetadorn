@@ -1,0 +1,21 @@
+release 0.1.0
+as a user I care about
+- a comment added to a blog post authored by me
+- a comment added to a blog post I added a comment to
+- an update made to a blog post authored by me
+
+release 0.1.1
+- implement with actors
+
+release 0.2
+as a user I care about
+- changes made to a page created by me
+- changes made to a page updated by me
+
+release 0.3
+as a user I care about
+- changes about users I'm following
+
+release 0.4
+- changes about pages I'm following 
+

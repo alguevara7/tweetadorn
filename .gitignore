@@ -1,0 +1,8 @@
+*.swp
+*.class
+.classpath
+.project
+.settings
+.scala_dependencies
+target
+.DS_Store
